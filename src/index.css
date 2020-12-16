@@ -226,7 +226,7 @@ main {
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius);
 }
-.single-tour footer {
+.single-tour .container {
   padding: 1.5rem 2rem;
 }
 .single-tour .delete-btn {
