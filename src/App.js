@@ -1,4 +1,5 @@
 import './App.css'
+const url = 'https://course-api.netlify.app/api/react-tours-project'
 
 function App() {
   return (
